@@ -2,8 +2,6 @@ matt.views = {};
 
 (function(views){
 
-
-
 var PageOne = React.createClass({displayName: "PageOne",
 
   render: function(){
